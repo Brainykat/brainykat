@@ -1,5 +1,5 @@
 
-## Am Gritty :tada:
+## I am Gritty :tada:
 <!--
 ### Hi there 👋
 **Brainykat/brainykat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
